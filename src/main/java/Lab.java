@@ -38,6 +38,11 @@ public class Lab {
 
 //        code here
 
+        while(i<end){
+            sum+=i;
+            i++;
+        }
+
         return sum;
     }
 }
